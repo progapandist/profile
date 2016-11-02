@@ -1,0 +1,106 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+body {
+  background-color: #A3DE83;
+  font-family: "Open Sans";
+  color: #222E45;
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #FA4659;
+}
+
+p {
+  padding: 5px;
+}
+
+.btn-orange {
+  background-color: #FA4659;
+  color: #FFFCF9;
+  border-radius: 3px;
+  padding: 10px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  color: #FA4659;
+  font-family: "Montserrat";
+  font-weight: bolder;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.img-round {
+  border-radius: 50%;
+  max-width: 250px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.txt-uppercase {
+  text-transform: uppercase;
+}
+
+.txt-left {
+  text-align: left;
+}
+
+.txt-justify {
+  text-align: justify;
+}
+
+.pad-bottom {
+  padding-bottom: 20px;
+}
+
+.img-poster {
+  max-width: 150px;
+  box-shadow: 2px 2px 3px #222E45;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: #FEFFE4;
+  border-radius: 4px;
+  padding: 20px;
+  margin: 20px auto;
+  text-align: center;
+  box-shadow: 2px 2px 3px #B3B3B3;
+}
